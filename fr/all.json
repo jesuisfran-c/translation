@@ -615,10 +615,15 @@
   },
   "SOURCES": {
     "LINK_SOURCE": {
+      "LABEL_MOBILE": "Liens",
+      "LINK": "Lien",
+      "LINK_WITH_COUNT_one": "{{count, number}} Lien",
       "LINK_WITH_COUNT_other": "{{count, number}} Liens",
       "OPEN_IN_READER": "Ouvrir dans le lecteur"
     },
     "UPLOAD_SOURCE": {
+      "LABEL_MOBILE": "Fichiers",
+      "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs"
     }
