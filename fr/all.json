@@ -622,6 +622,7 @@
       "OPEN_IN_READER": "Ouvrir dans le lecteur"
     },
     "UPLOAD_SOURCE": {
+      "LABEL": "Ajouter une source",
       "LABEL_MOBILE": "Fichiers",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
