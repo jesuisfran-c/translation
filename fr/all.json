@@ -580,6 +580,9 @@
       "TITLE": "Abonnements"
     }
   },
+  "SIDEBAR": {
+    "LABEL_FLASHCARDS": "Flashcards"
+  },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
     "PROPERTY_WITH_COUNT_other": "{{count, number}} Propriétés",
