@@ -586,8 +586,12 @@
         "ARTICLE_VIEWS": {
           "LABEL": "Votre document partagé est tendance"
         },
+        "DOCUMENT_ADDED_TO_GROUP": {
+          "LABEL": "Un document est ajouté à un groupe dont vous faites partie"
+        },
         "INVITE": {
-          "LABEL": "Vous êtes invité(e) à un groupe"
+          "LABEL": "Vous êtes invité(e) à un groupe",
+          "TITLE": "Notifications d'invitation"
         },
         "NEW_FOLLOWER": {
           "LABEL": "Quelqu'un vous suit"
