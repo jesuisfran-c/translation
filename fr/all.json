@@ -182,6 +182,7 @@
       },
       "CLOZE_BTN_TOOLTIP": "Flashcard Cloze (Texte à trous)",
       "COPY_IMAGE": "Copier l'image",
+      "COPY_IMAGE_AS_TEXT": "Copier l'image en tant que texte avec l'IA",
       "COPY_TEXT": "Copier en texte brut",
       "HIGHLIGHT": "Surligner",
       "MAKE_IMG_OCC_BTN_TOOLTIP": "Créer une Flashcard Occlusion d'Image",
