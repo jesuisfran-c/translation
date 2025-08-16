@@ -585,6 +585,9 @@
       "DESCRIPTIONS": {
         "ARTICLE_VIEWS": {
           "LABEL": "Votre document partagé est tendance"
+        },
+        "NEW_LIKE": {
+          "LABEL": "Quelqu'un aime un document que vous avez partagé"
         }
       }
     },
