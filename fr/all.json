@@ -586,6 +586,16 @@
     "LABEL_TUTORIALS": "Tutoriels",
     "TOOLTIP_FLASHCARD_HOME": "Aller à la page d'accueil des flashcards"
   },
+  "SOURCES": {
+    "LINK_SOURCE": {
+      "LINK_WITH_COUNT_other": "{{count, number}} Liens",
+      "OPEN_IN_READER": "Ouvert dans Reader"
+    },
+    "UPLOAD_SOURCE": {
+      "PDF_WITH_COUNT_one": "{{count, number}} PDF",
+      "PDF_WITH_COUNT_other": "{{count, number}} PDFs"
+    }
+  },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
     "PROPERTY_WITH_COUNT_other": "{{count, number}} Propriétés",
