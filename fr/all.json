@@ -581,7 +581,8 @@
     }
   },
   "SIDEBAR": {
-    "LABEL_FLASHCARDS": "Flashcards"
+    "LABEL_FLASHCARDS": "Flashcards",
+    "LABEL_TODAYS_NOTE": "Note du jour"
   },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
