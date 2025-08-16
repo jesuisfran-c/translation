@@ -635,7 +635,8 @@
         "FILTER_TITLE": "Filtre"
       },
       "TABLE_CONFIGURATION": {
-        "LIST_CONFIGURATION_TITLE": "Liste"
+        "LIST_CONFIGURATION_TITLE": "Liste",
+        "PROPERTIES_CONFIGURATION_TITLE": "Configurer"
       }
     }
   },
