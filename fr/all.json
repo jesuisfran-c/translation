@@ -599,7 +599,8 @@
         "NEW_LIKE": {
           "LABEL": "Quelqu'un aime un document que vous avez partagé"
         }
-      }
+      },
+      "ENABLE_COMMUNITY_LABEL": "Recevez une notification dans l'application lorsqu'une personne interagit avec votre profil communautaire"
     },
     "PLANS": {
       "TITLE": "Abonnements"
