@@ -636,7 +636,10 @@
       },
       "TABLE_CONFIGURATION": {
         "LIST_CONFIGURATION_TITLE": "Liste",
-        "PROPERTIES_CONFIGURATION_TITLE": "Configurer"
+        "PROPERTIES_CONFIGURATION_TITLE": "Configurer",
+        "VIEW_AS": {
+          "LIST_VIEW": "Liste"
+        }
       }
     }
   },
