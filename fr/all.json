@@ -582,7 +582,9 @@
   },
   "SIDEBAR": {
     "LABEL_FLASHCARDS": "Flashcards",
-    "LABEL_TODAYS_NOTE": "Note du jour"
+    "LABEL_TODAYS_NOTE": "Note du jour",
+    "LABEL_TUTORIALS": "Tutoriels",
+    "TOOLTIP_FLASHCARD_HOME": "Aller à la page d'accueil des flashcards"
   },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
