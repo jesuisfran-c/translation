@@ -572,7 +572,19 @@
       },
       "SPLIT_WITH_ALT_ENTER": {
         "DESCRIPTION": {
-          "MAC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Opt+Return depuis le milieu d'un Rem."
+          "MAC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Opt+Return depuis le milieu d'un Rem.",
+          "PC": "Divisez le texte en Rems distincts en appuyant sur Alt+Entrée depuis le milieu d'un Rem."
+        },
+        "TITLE": {
+          "MAC": "Diviser avec Opt+Retour",
+          "PC": "Diviser avec Alt+Entrée"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "DESCRIPTIONS": {
+        "ARTICLE_VIEWS": {
+          "LABEL": "Votre document partagé est tendance"
         }
       }
     },
