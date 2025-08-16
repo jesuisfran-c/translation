@@ -569,6 +569,11 @@
       "ENTER_TO_OUTDENT": {
         "LABEL": "Lorsque vous appuyez sur Entrée sur un Rem sans contenu qui n'est pas au niveau supérieur du document, indentez d'un niveau. (Si cette option est désactivée, reste au même niveau et laisse un Rem vide.)",
         "TITLE": "Appuyer sur Entrée pour désindenter"
+      },
+      "SPLIT_WITH_ALT_ENTER": {
+        "DESCRIPTION": {
+          "MAC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Opt+Return depuis le milieu d'un Rem."
+        }
       }
     }
   },
