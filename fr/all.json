@@ -589,6 +589,9 @@
         "INVITE": {
           "LABEL": "Vous êtes invité(e) à un groupe"
         },
+        "NEW_FOLLOWER": {
+          "LABEL": "Quelqu'un vous suit"
+        },
         "NEW_LIKE": {
           "LABEL": "Quelqu'un aime un document que vous avez partagé"
         }
