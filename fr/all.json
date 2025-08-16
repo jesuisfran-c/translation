@@ -605,6 +605,7 @@
     "LABEL_FLASHCARDS": "Flashcards",
     "LABEL_TODAYS_NOTE": "Note du jour",
     "LABEL_TUTORIALS": "Tutoriels",
+    "TOOLTIP_EDIT_LATER_QUEUE": "Ouvrir la file d'attente \"Modifier plus tard\"",
     "TOOLTIP_FLASHCARD_HOME": "Aller à la page d'accueil des flashcards"
   },
   "SOURCES": {
