@@ -641,7 +641,8 @@
           "LIST_VIEW": "Liste"
         }
       }
-    }
+    },
+    "PRIMARY_COLUMN_TITLE": "Nom"
   },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
