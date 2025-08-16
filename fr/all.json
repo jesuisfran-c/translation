@@ -629,6 +629,13 @@
       "PDF_WITH_COUNT_other": "{{count, number}} PDFs"
     }
   },
+  "TABLES": {
+    "MENUS": {
+      "FILTER": {
+        "FILTER_TITLE": "Filtre"
+      }
+    }
+  },
   "TEMPLATES": {
     "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
     "PROPERTY_WITH_COUNT_other": "{{count, number}} Propriétés",
