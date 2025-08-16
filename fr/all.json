@@ -589,7 +589,7 @@
   "SOURCES": {
     "LINK_SOURCE": {
       "LINK_WITH_COUNT_other": "{{count, number}} Liens",
-      "OPEN_IN_READER": "Ouvert dans Reader"
+      "OPEN_IN_READER": "Ouvrir dans Reader"
     },
     "UPLOAD_SOURCE": {
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
