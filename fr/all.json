@@ -633,6 +633,9 @@
     "MENUS": {
       "FILTER": {
         "FILTER_TITLE": "Filtre"
+      },
+      "TABLE_CONFIGURATION": {
+        "LIST_CONFIGURATION_TITLE": "Liste"
       }
     }
   },
