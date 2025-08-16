@@ -575,6 +575,9 @@
           "MAC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Opt+Return depuis le milieu d'un Rem."
         }
       }
+    },
+    "PLANS": {
+      "TITLE": "Abonnements"
     }
   },
   "TEMPLATES": {
